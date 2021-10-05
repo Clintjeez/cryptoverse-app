@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211005T190000Z
+DTEND:20211005T193000Z
+DTSTAMP:20211005T050543Z
+ORGANIZER;CN=deji@buycoins.africa:mailto:deji@buycoins.africa
+UID:69nc2uggnomg5kgmbirnf892qg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=justin.irabor@gmail.com;X-NUM-GUESTS=0:mailto:justin.irabor@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=clintjeez@gmail.com;X-NUM-GUESTS=0:mailto:clintjeez@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=techbro104@gmail.com;X-NUM-GUESTS=0:mailto:techbro104@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adelnehikhare@gmail.com;X-NUM-GUESTS=0:mailto:adelnehikhare@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nonsoukwu02@gmail.com;X-NUM-GUESTS=0:mailto:nonsoukwu02@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mmakpan15@gmail.com;X-NUM-GUESTS=0:mailto:mmakpan15@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=franknonso114@gmail.com;X-NUM-GUESTS=0:mailto:franknonso114@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=seyitoladele@gmail.com;X-NUM-GUESTS=0:mailto:seyitoladele@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=olayanjujonathan120@gmail.com;X-NUM-GUESTS=0:mailto:olayanjujonatha
+ n120@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=akinsanyaadeoluwa21@gmail.com;X-NUM-GUESTS=0:mailto:akinsanyaadeolu
+ wa21@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=william.amanabo@gmail.com;X-NUM-GUESTS=0:mailto:william.amanabo@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=joeladewole3@gmail.com;X-NUM-GUESTS=0:mailto:joeladewole3@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lovedayperfection1@gmail.com;X-NUM-GUESTS=0:mailto:lovedayperfectio
+ n1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ojofisayo24@gmail.com;X-NUM-GUESTS=0:mailto:ojofisayo24@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=chinonsoukoha@gmail.com;X-NUM-GUESTS=0:mailto:chinonsoukoha@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=godspowereze260@gmail.com;X-NUM-GUESTS=0:mailto:godspowereze260@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=olisehemeke37@gmail.com;X-NUM-GUESTS=0:mailto:olisehemeke37@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=deji@buycoins.africa;X-NUM-GUESTS=0:mailto:deji@buycoins.africa
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=koikibabatunde14@gmail.com;X-NUM-GUESTS=0:mailto:koikibabatunde14@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=metikenny@gmail.com;X-NUM-GUESTS=0:mailto:metikenny@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nijesu.design@gmail.com;X-NUM-GUESTS=0:mailto:nijesu.design@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sharonkosgei4@gmail.com;X-NUM-GUESTS=0:mailto:sharonkosgei4@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=osivwiokiti@gmail.com;X-NUM-GUESTS=0:mailto:osivwiokiti@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=iraborjordan1@gmail.com;X-NUM-GUESTS=0:mailto:iraborjordan1@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ifeoluwaolubo@gmail.com;X-NUM-GUESTS=0:mailto:ifeoluwaolubo@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=oluwadamilola.alao@gmail.com;X-NUM-GUESTS=0:mailto:oluwadamilola.al
+ ao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=okoroaforkelechi123@gmail.com;X-NUM-GUESTS=0:mailto:okoroaforkelech
+ i123@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abiodunadebambo44@gmail.com;X-NUM-GUESTS=0:mailto:abiodunadebambo44
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=danielcoker28@gmail.com;X-NUM-GUESTS=0:mailto:danielcoker28@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=codesalley@gmail.com;X-NUM-GUESTS=0:mailto:codesalley@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=okalac@yahoo.com;X-NUM-GUESTS=0:mailto:okalac@yahoo.com
+X-MICROSOFT-CDO-OWNERAPPTID:-328269979
+CREATED:20211005T050538Z
+DESCRIPTION:Hi guys\, we'd be having a QnA tomorrow at 8pm with Timmi where
+  we're encouraged to come with all the questions that we moght have about t
+ he Hackathon. Please come with all the questions you have!\n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nDo not edit this section of the description.\n\nView your event at https:/
+ /calendar.google.com/calendar/event?action=VIEW&eid=NjluYzJ1Z2dub21nNWtnbWJ
+ pcm5mODkycWcgY2xpbnRqZWV6QG0&tok=MjAjZGVqaUBidXljb2lucy5hZnJpY2EwNWYzNjBmYj
+ ZjYTQ4OTYzNDVkZjk0YWMwNTMyYTRiYjllNjNjZGQz&ctz=Africa%2FLagos&hl=en&es=1.\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-
+LAST-MODIFIED:20211005T050541Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spark Hackathon by Buycoins QnA with Timi!!!
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
